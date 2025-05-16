@@ -4,20 +4,20 @@
 This project predicts house sale prices using SAS for Kaggle’s [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). It uses regression modeling, engineered features, and grouped price analysis to estimate `SalePrice` based on property characteristics.
 
 ## Key Variables  
-- `SalePrice`: House sale price (target)  
-- `GrLivArea`: Above-ground living area  
-- `TotalSF`: Total square footage (basement + floors)  
-- `OverallQual`: Overall quality rating (1–10)  
-- `GarageCars`: Number of garage spots  
-- `HouseAge`: `YrSold` - `YearBuilt`  
-- `TotalBath`: Combined full and half baths  
+- 'SalePrice`: House sale price (target)  
+- 'GrLivArea`: Above-ground living area  
+- 'TotalSF`: Total square footage (basement + floors)  
+- 'OverallQual`: Overall quality rating (1–10)  
+- 'GarageCars`: Number of garage spots  
+- 'HouseAge`: `YrSold` - `YearBuilt`  
+- 'TotalBath`: Combined full and half baths  
 
 ## Tools and Methods  
 - **SAS Base**  
-- `proc glmselect`, `proc reg`, `proc means`  
-- Feature engineering using `data step`  
-- Log-transformed `SalePrice` for stable modeling  
-- Final export using `proc export`  
+- 'proc glmselect`, `proc reg`, `proc means`  
+- Feature engineering using 'data step`  
+- Log-transformed 'SalePrice` for stable modeling  
+- Final export using 'proc export`  
 
 ## Model Results  
 - **R-squared = 0.8206**  
