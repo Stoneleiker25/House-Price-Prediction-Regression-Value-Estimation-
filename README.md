@@ -21,7 +21,7 @@ This project predicts house sale prices using SAS for Kaggle’s [House Prices: 
 
 ## Model Results  
 - **R-squared = 0.8206**  
-  → The model explains 82% of variation in prices, which is strong and reliable for housing prediction.  
+   The model explains 82% of variation in prices, which is strong and reliable for housing prediction.  
 
 ## Kaggle Submission  
 Kaggle requires only test predictions (Id 1461–2919), submitted as:
