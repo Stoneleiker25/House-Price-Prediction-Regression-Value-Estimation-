@@ -9,12 +9,12 @@ This project predicts house sale prices using SAS for Kaggle’s [House Prices: 
 - 'TotalSF`: Total square footage (basement + floors)  
 - 'OverallQual`: Overall quality rating (1–10)  
 - 'GarageCars`: Number of garage spots  
-- 'HouseAge` `YrSold` - `YearBuilt`  
+- 'HouseAge``YrSold` `YearBuilt`  
 - 'TotalBath`: Combined full and half baths  
 
 ## Tools and Methods  
 - **SAS Base**  
-- 'proc glmselect` `proc reg` `proc means`  
+- 'proc glmselect` `proc reg``proc means`  
 - Feature engineering using 'data step`  
 - Log-transformed 'SalePrice` for stable modeling  
 - Final export using 'proc export`  
