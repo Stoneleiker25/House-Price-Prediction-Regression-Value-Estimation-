@@ -1,4 +1,4 @@
-# 🏠 Predicting House Prices with SAS
+# Predicting House Prices with SAS
 
 ## Project Overview  
 This project predicts house sale prices using SAS for Kaggle’s [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). It uses regression modeling, engineered features, and grouped price analysis to estimate `SalePrice` based on property characteristics.
